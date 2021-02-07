@@ -1,2 +1,2 @@
 # Candypuzzle-
-CanyPuzzle game creator
+CandyPuzzle game creator
